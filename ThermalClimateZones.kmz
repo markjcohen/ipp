@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml>
+   <Folder>
+      <name/>
+      <NetworkLink>
+         <name>GEONETWORK:therm_clim_14056</name>
+         <visibility>1</visibility>
+         <open>1</open>
+         <LookAt>
+            <longitude>180.0</longitude>
+            <latitude>0.0</latitude>
+            <altitude>1.5768778343115222E7</altitude>
+            <range>1.2742E7</range>
+            <tilt>0.0</tilt>
+            <heading>0.0</heading>
+            <altitudeMode>clampToGround</altitudeMode>
+         </LookAt>
+         <Url>
+            <href><![CDATA[http://data.fao.org/maps/wms?height=1024&width=1024&layers=GEONETWORK:therm_clim_14056&request=GetMap&service=wms&styles=geonetwork_therm_clim_14056_style&format_options=SUPEROVERLAY:false;KMPLACEMARK:false;KMSCORE:40;KMATTR:true;&srs=EPSG:4326&format=application/vnd.google-earth.kmz&transparent=false&version=1.1.1]]></href>
+            <viewRefreshMode>onStop</viewRefreshMode>
+            <viewRefreshTime>1</viewRefreshTime>
+         </Url>
+      </NetworkLink>
+      <LookAt>
+         <longitude>180.0</longitude>
+         <latitude>0.0</latitude>
+         <altitude>1.5768778343115222E7</altitude>
+         <range>1.2742E7</range>
+         <tilt>0.0</tilt>
+         <heading>0.0</heading>
+         <altitudeMode>clampToGround</altitudeMode>
+      </LookAt>
+   </Folder>
+</kml>
