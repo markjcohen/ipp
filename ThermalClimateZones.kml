@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Folder>
+	<name>therm_clim_14056 (1).kmz</name>
+	<open>1</open>
+	<LookAt>
+		<longitude>180</longitude>
+		<latitude>0</latitude>
+		<altitude>15768778.34311522</altitude>
+		<heading>0</heading>
+		<tilt>0</tilt>
+		<range>12742000</range>
+	</LookAt>
+	<NetworkLink>
+		<name>GEONETWORK:therm_clim_14056</name>
+		<open>1</open>
+		<LookAt>
+			<longitude>180</longitude>
+			<latitude>0</latitude>
+			<altitude>15768778.34311522</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<range>12742000</range>
+		</LookAt>
+		<Url>
+			<href>http://data.fao.org/maps/wms?height=1024&amp;width=1024&amp;layers=GEONETWORK:therm_clim_14056&amp;request=GetMap&amp;service=wms&amp;styles=geonetwork_therm_clim_14056_style&amp;format_options=SUPEROVERLAY:false;KMPLACEMARK:false;KMSCORE:40;KMATTR:true;&amp;srs=EPSG:4326&amp;format=application/vnd.google-earth.kmz&amp;transparent=false&amp;version=1.1.1&amp;</href>
+			<viewRefreshMode>onStop</viewRefreshMode>
+			<viewRefreshTime>1</viewRefreshTime>
+		</Url>
+	</NetworkLink>
+</Folder>
+</kml>
